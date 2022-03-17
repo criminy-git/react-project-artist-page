@@ -1,4 +1,4 @@
-#Art website for Franz Marc 
+Art website for Franz Marc 
 
 What I learned during this project (February 2022):
 
