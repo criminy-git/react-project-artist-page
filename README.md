@@ -1,3 +1,13 @@
+Art website for Franz Marc 
+
+What I learned during this project (February 2022):
+
+- Working with nested components
+- Passing props to child components
+
+---
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
